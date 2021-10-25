@@ -1,0 +1,22 @@
+/*
+Theme Name: Twenty Twenty-one Child
+Template: twentytwentyone
+Description: My custom child theme based on Twenty Twenty-one 
+*/
+
+
+.widget-title{
+	flex: 1 0 100%;
+}
+
+.project-widget{
+	display: flex;
+	flex-flow:  row wrap;
+}
+.project{
+	flex: 1 0 0;
+}
+.project-title{
+	font-size:1.1em;
+	text-align:center;
+}

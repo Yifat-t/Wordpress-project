@@ -1,0 +1,157 @@
+# Translation of Themes - Hello Travel in English (Canada)
+# This file is distributed under the same license as the Themes - Hello Travel package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-20 03:54:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Hello Travel\n"
+
+#. Description of the theme
+msgid "Hello Travel is a beautiful and highly customizable theme to create a professional travel blog. This multipurpose theme can be also used for creating different types of blogs such as fashion, lifestyle, journal, beauty, parenting, recipes, and many more. It includes sections such as Banner with CTA, About, Latest Posts, and Map to share your travel tips and expertise. Further, you can choose from unlimited colors and 1000+ Google fonts to change the look and feel of your site. With the Instagram section, you can flaunt your travel posts and increase your followers. The newsletter integration will help you grow your email list and stay in touch with your readers. Hello Travel is SEO-friendly, speed optimized, mobile-friendly, translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=hello-travel, read the documentation at https://docs.blossomthemes.com/hello-travel/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Hello Travel is a beautiful and highly customizable theme to create a professional travel blog. This multipurpose theme can be also used for creating different types of blogs such as fashion, lifestyle, journal, beauty, parenting, recipes, and many more. It includes sections such as Banner with CTA, About, Latest Posts, and Map to share your travel tips and expertise. Further, you can choose from unlimited colours and 1000+ Google fonts to change the look and feel of your site. With the Instagram section, you can flaunt your travel posts and increase your followers. The newsletter integration will help you grow your email list and stay in touch with your readers. Hello Travel is SEO-friendly, speed optimized, mobile-friendly, translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=hello-travel, read the documentation at https://docs.blossomthemes.com/hello-travel/, and get support at https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Hello Travel"
+msgstr "Hello Travel"
+
+#: functions.php:521
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:520
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:496
+msgid "https://wordpress.org/"
+msgstr "https://en-ca.wordpress.org/"
+
+#: functions.php:496
+msgid " Powered by %s"
+msgstr "Powered by %s"
+
+#: functions.php:494
+msgid " Blossom Themes"
+msgstr " Blossom Themes"
+
+#: functions.php:493
+msgid " Hello Travel | Developed By "
+msgstr " Hello Travel | Developed By "
+
+#: functions.php:377
+msgid "%1$sClick here%2$s to configure banner settings"
+msgstr "%1$sClick here%2$s to configure banner settings"
+
+#: functions.php:356
+msgid "%1$sClick here%2$s to configure banner layout settings"
+msgstr "%1$sClick here%2$s to configure banner layout settings"
+
+#: functions.php:312 functions.php:332
+msgid "Banner Layout"
+msgstr "Banner Layout"
+
+#: functions.php:301
+msgid "Enable to open  banner link in new tab."
+msgstr "Enable to open  banner link in new tab."
+
+#: functions.php:300
+msgid "Open Banner link in new tab"
+msgstr "Open Banner link in new tab"
+
+#: functions.php:273
+msgid "Banner Content"
+msgstr "Banner Content"
+
+#: functions.php:250 functions.php:333
+msgid "Choose the layout of the header for your site."
+msgstr "Choose the layout of the header for your site."
+
+#: functions.php:229 functions.php:249
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: functions.php:221
+msgid "Change different page layout from here."
+msgstr "Change different page layout from here."
+
+#: functions.php:220
+msgid "Layout Settings"
+msgstr "Layout Settings"
+
+#: functions.php:201
+msgid "Secondary font of the site."
+msgstr "Secondary font of the site."
+
+#: functions.php:200
+msgid "Secondary Font"
+msgstr "Secondary Font"
+
+#: functions.php:179
+msgid "Primary font of the site."
+msgstr "Primary font of the site."
+
+#: functions.php:178
+msgid "Primary Font"
+msgstr "Primary Font"
+
+#: functions.php:158
+msgid "Typography"
+msgstr "Typography"
+
+#: functions.php:147
+msgid "Secondary color of the theme."
+msgstr "Secondary colour of the theme."
+
+#: functions.php:146
+msgid "Secondary Color"
+msgstr "Secondary Colour"
+
+#: functions.php:125
+msgid "Primary color of the theme."
+msgstr "Primary colour of the theme."
+
+#: functions.php:124
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: functions.php:106
+msgid "Customize Typography, Background Image & Color."
+msgstr "Customize Typography, Background Image & Colour."
+
+#: functions.php:103
+msgid "Appearance Settings"
+msgstr "Appearance Settings"
+
+#: functions.php:88
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Documentation Link: %1$sClick here.%2$s"
+
+#: functions.php:86
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Demo Link: %1$sClick here.%2$s"
+
+#: functions.php:72
+msgid "Demo & Documentation"
+msgstr "Demo & Documentation"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/wordpress-themes/hello-travel/"
+msgstr "https://blossomthemes.com/wordpress-themes/hello-travel/"
